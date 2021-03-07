@@ -7,3 +7,5 @@ In the hooks.json you can add repos which should be updated by entering the name
 
 Run "npm install" to install dependecies before first use.
 Run "npm start" to build and start the server.
+
+Don't forget to forward the Port you want to use to the machine you are running the server on.
