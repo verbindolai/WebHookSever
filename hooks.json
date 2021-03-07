@@ -1,0 +1,12 @@
+[
+    {
+        "name":"REPO_NAME_1",
+        "path":"PATH_TO_UPDATE_SCRIPT_1",
+        "branch":"BRANCH_NAME_1"
+    },
+    {
+        "name":"REPO_NAME_2",
+        "path":"PATH_TO_UPDATE_SCRIPT_2",
+        "branch":"BRANCH_NAME_2"
+    }
+]
